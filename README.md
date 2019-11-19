@@ -33,7 +33,7 @@
   * [ ] URLencode
   * [ ] Base64
 * [ ] Софт
-  * [ ] Cypress
+  * [ ] [Cypress](software/cypress.md)
   * [ ] Postman
   * [ ] Docker
   * [ ] Git
