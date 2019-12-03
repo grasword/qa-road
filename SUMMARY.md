@@ -6,3 +6,7 @@
 
 * [Cypress](software/cypress.md)
 
+## Теория
+
+* [SDLC](sdlc.md)
+
