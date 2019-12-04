@@ -9,4 +9,5 @@
 ## Теория
 
 * [SDLC](sdlc.md)
+* [STLC](stlc.md)
 
