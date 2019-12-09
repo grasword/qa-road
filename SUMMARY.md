@@ -2,13 +2,13 @@
 
 * [Table of content](README.md)
 
+## Теория
+
+* [FAQ](faq.md)
+* [SDLC](sdlc.md)
+* [STLC](stlc.md)
+
 ## software
 
 * [Cypress](software/cypress.md)
-
-## Теория
-
-* [SDLC](sdlc.md)
-* [STLC](stlc.md)
-* [FAQ](faq.md)
 
