@@ -10,4 +10,5 @@
 
 * [SDLC](sdlc.md)
 * [STLC](stlc.md)
+* [FAQ](faq.md)
 
