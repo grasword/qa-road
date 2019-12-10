@@ -7,6 +7,7 @@
 * [FAQ](faq.md)
 * [SDLC](sdlc.md)
 * [STLC](stlc.md)
+* [Тестирование](testing.md)
 
 ## software
 
