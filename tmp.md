@@ -51,7 +51,7 @@
     Еще один метод для задач оптимизации. Для примера можно рассмотреть задачу "Hill Climbing".
 
     Где применяется:   
-  - machine learning
+  - Machine Learning
 
 ### 7\) Преобразуй и властвуй \(Transform and Conquer\)
 
