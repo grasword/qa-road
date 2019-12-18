@@ -8,6 +8,7 @@
 * [SDLC](sdlc.md)
 * [STLC](stlc.md)
 * [Тестирование](testing.md)
+* [Черновик](tmp.md)
 
 ## software
 
