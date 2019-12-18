@@ -8,10 +8,9 @@
 * [SDLC](sdlc.md)
 * [STLC](stlc.md)
 * [Тестирование](testing.md)
-* [Черновик](tmp.md)
+* [TMP](tmp.md)
 
 ## software
 
 * [Cypress](software/cypress.md)
-* [Untitled](untitled.md)
 
