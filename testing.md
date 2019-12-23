@@ -65,6 +65,10 @@
 * [LoadRunner](https://www.microfocus.com/ru-ru/products/loadrunner-load-testing/overview)
 * [Dynatrace](https://www.dynatrace.com/)
 
+## Положительное тестирование \(positive testing\)
+
+  Это тестирование с применением сценариев, которые соответствуют нормальному \(штатному, ожидаемому\) поведению системы. С его помощью мы можем определить, что система делает то, для чего и была создана.
+
 ### 
 
 ### 
