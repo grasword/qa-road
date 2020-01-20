@@ -7,7 +7,7 @@
 * [FAQ](faq.md)
 * [SDLC](sdlc.md)
 * [STLC](stlc.md)
-* [Тестирование](testing.md)
+* [Тестирование Основы](testing-basics.md)
 * [TMP](tmp.md)
 
 ## software
@@ -17,4 +17,8 @@
 ## Tools <a id="tools-1"></a>
 
 * [Tools for Software Testing](tools-1/tools.md)
+
+## Тестирование
+
+* [Тестирование](testirovanie/testing.md)
 
