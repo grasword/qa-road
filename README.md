@@ -40,10 +40,10 @@
   * [ ] Docker
   * [ ] Git
   * [ ] curl
-* [ ] Тестирование
-  * [ ] Unit testing
-  * [ ] Integration Testing
-  * [ ] Functional testing
+* [ ] [Тестирование](testirovanie/testing.md)
+  * [ ] [Unit testing](testirovanie/testing.md#unit-testing)
+  * [ ] [Integration Testing](testirovanie/testing.md#integration-testing)
+  * [ ] [Functional testing](testirovanie/testing.md#functional-testing)
   * [ ] System Testing
   * [ ] Acceptance Testing \(Smoke testing\)
   * [ ] Regression Testing
