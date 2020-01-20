@@ -49,4 +49,18 @@
   * [ ] Regression Testing
   * [ ] Black-Box/White Box Testing
   * [ ] Test automatization
+* [ ] [Tools for Software Testing](tools-1/tools.md)
+  * [ ] [Screenshots](https://app.gitbook.com/@grasword6/s/qa/~/drafts/-Lz1hgJMVzIiqpQ7OXj_/tools#screenshots)
+  * [ ] [Preparing Test Data](https://app.gitbook.com/@grasword6/s/qa/~/drafts/-Lz1hgJMVzIiqpQ7OXj_/tools#preparing-test-data)
+  * [ ] [Validators](https://app.gitbook.com/@grasword6/s/qa/~/drafts/-Lz1hgJMVzIiqpQ7OXj_/tools#validators)
+  * [ ] [Performance](https://app.gitbook.com/@grasword6/s/qa/~/drafts/-Lz1hgJMVzIiqpQ7OXj_/tools#performance)
+  * [ ] [Compatibility Checkers](https://app.gitbook.com/@grasword6/s/qa/~/drafts/-Lz1hgJMVzIiqpQ7OXj_/tools#compatibility-checkers)
+  * [ ] [Security](https://app.gitbook.com/@grasword6/s/qa/~/drafts/-Lz1hgJMVzIiqpQ7OXj_/tools#security)
+  * [ ] [Web Proxies](https://app.gitbook.com/@grasword6/s/qa/~/drafts/-Lz1hgJMVzIiqpQ7OXj_/tools#web-proxies)
+  * [ ] [Generic Web Testing](https://app.gitbook.com/@grasword6/s/qa/~/drafts/-Lz1hgJMVzIiqpQ7OXj_/tools#generic-web-testing)
+  * [ ] [Test Management](https://app.gitbook.com/@grasword6/s/qa/~/drafts/-Lz1hgJMVzIiqpQ7OXj_/tools#test-management)
+  * [ ] [Mind Maps](https://app.gitbook.com/@grasword6/s/qa/~/drafts/-Lz1hgJMVzIiqpQ7OXj_/tools#mind-maps)
+  * [ ] [Usability](https://app.gitbook.com/@grasword6/s/qa/~/drafts/-Lz1hgJMVzIiqpQ7OXj_/tools#usability)
+
+
 
