@@ -44,11 +44,13 @@
   * [ ] [Unit testing](testirovanie/testing.md#unit-testing)
   * [ ] [Integration Testing](testirovanie/testing.md#integration-testing)
   * [ ] [Functional testing](testirovanie/testing.md#functional-testing)
-  * [ ] System Testing
-  * [ ] Acceptance Testing \(Smoke testing\)
-  * [ ] Regression Testing
-  * [ ] Black-Box/White Box Testing
-  * [ ] Test automatization
+  * [ ] [System Testing](testirovanie/testing.md#system-testing)
+  * [ ] [Acceptance Testing](testirovanie/testing.md#acceptance-testing-smoke-testing) \(Smoke testing\)
+  * [ ] [Regression Testing](testirovanie/testing.md#regression-testing)
+  * [ ] [Black-Box Testing](testirovanie/testing.md#black-box-testing)
+  * [ ] [White-Box Testing](testirovanie/testing.md#white-box-testing)
+  * [ ] [Gray-Box Testing](testirovanie/testing.md#grey-box-testing)
+  * [ ] [Test automatization](testirovanie/testing.md#test-automatization)
 * [ ] [Tools for Software Testing](tools-1/tools.md)
   * [ ] [Screenshots](https://app.gitbook.com/@grasword6/s/qa/~/drafts/-Lz1hgJMVzIiqpQ7OXj_/tools#screenshots)
   * [ ] [Preparing Test Data](https://app.gitbook.com/@grasword6/s/qa/~/drafts/-Lz1hgJMVzIiqpQ7OXj_/tools#preparing-test-data)
