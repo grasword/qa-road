@@ -22,3 +22,7 @@
 
 * [Тестирование](testirovanie/testing.md)
 
+## Тестовая документация
+
+* [План тестирования \(Test Plan\)](testovaya-dokumentaciya/test-plan.md)
+
