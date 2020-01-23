@@ -9,8 +9,8 @@
   * [ ] [Тестирование Основы](testing-basics.md)
 * [ ] Тестовая документация
   * [ ] [план по тестированию](testovaya-dokumentaciya/test-plan.md)
-  * [ ] чек листы
-  * [ ] баг репорты
+  * [ ] [чек листы](testovaya-dokumentaciya/check-list.md)
+  * [ ] [баг репорты](testovaya-dokumentaciya/bug-report.md)
   * [ ] тест кейсы
 * [ ] Баг трекеры \(обнаружение, документирование и отслеживание ошибок\)
   * [ ] Jira

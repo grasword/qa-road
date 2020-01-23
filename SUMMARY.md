@@ -24,5 +24,7 @@
 
 ## Тестовая документация
 
-* [План тестирования \(Test Plan\)](testovaya-dokumentaciya/test-plan.md)
+* [План тестирования](testovaya-dokumentaciya/test-plan.md)
+* [Чек Лист](testovaya-dokumentaciya/check-list.md)
+* [Баг-репорт](testovaya-dokumentaciya/bug-report.md)
 
