@@ -51,6 +51,7 @@
   * [ ] [White-Box Testing](testirovanie/testing.md#white-box-testing)
   * [ ] [Gray-Box Testing](testirovanie/testing.md#grey-box-testing)
   * [ ] [Test automatization](testirovanie/testing.md#test-automatization)
+  * [ ] [End-to-end testing](testirovanie/testing.md#end-to-end-testing)
 * [ ] [Tools for Software Testing](tools-1/tools.md)
   * [ ] [Screenshots](tools-1/tools.md#screenshots)
   * [ ] [Preparing Test Data](tools-1/tools.md#preparing-test-data)
