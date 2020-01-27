@@ -29,3 +29,8 @@
 * [Баг-репорт](testovaya-dokumentaciya/bug-report.md)
 * [Тест-кейсы](testovaya-dokumentaciya/test-cases.md)
 
+## HTTP
+
+* [Основы](http/basics-http.md)
+* [Методы](http/methods.md)
+
