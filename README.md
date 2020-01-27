@@ -11,7 +11,7 @@
   * [ ] [План по тестированию](testovaya-dokumentaciya/test-plan.md)
   * [ ] [Чек-листы](testovaya-dokumentaciya/check-list.md)
   * [ ] [Баг-репорты](testovaya-dokumentaciya/bug-report.md)
-  * [ ] Тест-кейсы
+  * [ ] [Тест-кейсы](testovaya-dokumentaciya/test-cases.md)
 * [ ] Баг трекеры \(обнаружение, документирование и отслеживание ошибок\)
   * [ ] Jira
   * [ ] Readmine

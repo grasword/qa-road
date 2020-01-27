@@ -27,4 +27,5 @@
 * [План тестирования](testovaya-dokumentaciya/test-plan.md)
 * [Чек-Лист](testovaya-dokumentaciya/check-list.md)
 * [Баг-репорт](testovaya-dokumentaciya/bug-report.md)
+* [Тест-кейсы](testovaya-dokumentaciya/test-cases.md)
 
