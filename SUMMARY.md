@@ -34,5 +34,5 @@
 * [Основы](http/basics-http.md)
 * [Методы](http/methods.md)
 * [API](http/api.md)
-* [Rest](http/rest.md)
+* [REST](http/rest.md)
 

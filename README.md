@@ -25,7 +25,8 @@
   * [ ] [Основы ](http/basics-http.md)\(понимание как браузер взаимодействует с серверными веб-приложениями\)
   * [ ] [Методы](http/methods.md)
   * [ ] [API](http/api.md)
-  * [ ] REST
+  * [ ] [REST](http/rest.md)
+  * [ ] [Коды состояний HTTP](http/rest.md#20e3)
   * [ ] SOAP
 * [ ] Форматы данных
   * [ ] JSON
