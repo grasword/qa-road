@@ -29,7 +29,7 @@
   * [ ] [Коды состояний HTTP](http/rest.md#20e3)
   * [ ] [SOAP](http/soap.md)
 * [ ] Форматы данных
-  * [ ] JSON
+  * [ ] [JSON](formaty-dannykh/json.md)
   * [ ] XML
   * [ ] CSV \(u stupid\)
 * [ ] Алгоритмы кодирования
