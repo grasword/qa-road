@@ -32,7 +32,6 @@
 ## HTTP
 
 * [Основы](http/basics-http.md)
-* [Методы](http/methods.md)
 * [API](http/api.md)
 * [REST](http/rest.md)
 * [Soap](http/soap.md)
