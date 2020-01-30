@@ -27,7 +27,7 @@
   * [ ] [API](http/api.md)
   * [ ] [REST](http/rest.md)
   * [ ] [Коды состояний HTTP](http/rest.md#20e3)
-  * [ ] SOAP
+  * [ ] [SOAP](http/soap.md)
 * [ ] Форматы данных
   * [ ] JSON
   * [ ] XML
