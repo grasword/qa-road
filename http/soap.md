@@ -1,4 +1,4 @@
-# Soap
+# SOAP
 
 **SOAP** \(от англ. Simple Object Access Protocol — простой протокол доступа к объектам\) — [протокол](https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB) обмена структурированными сообщениями в распределённой вычислительной среде. Первоначально SOAP предназначался в основном для реализации удалённого вызова процедур \([RPC](https://ru.wikipedia.org/wiki/Remote_Procedure_Call)\). Сейчас протокол используется для обмена произвольными сообщениями в формате [XML](https://ru.wikipedia.org/wiki/XML), а не только для вызова процедур. SOAP является расширением протокола [XML-RPC](https://ru.wikipedia.org/wiki/XML-RPC).
 

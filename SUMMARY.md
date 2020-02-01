@@ -34,7 +34,7 @@
 * [Основы](http/basics-http.md)
 * [API](http/api.md)
 * [REST](http/rest.md)
-* [Soap](http/soap.md)
+* [SOAP](http/soap.md)
 
 ## Форматы данных
 
