@@ -39,4 +39,5 @@
 ## Форматы данных
 
 * [JSON](formaty-dannykh/json.md)
+* [XML](formaty-dannykh/xml.md)
 
