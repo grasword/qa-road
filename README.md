@@ -30,7 +30,7 @@
   * [ ] [SOAP](http/soap.md)
 * [ ] Форматы данных
   * [ ] [JSON](formaty-dannykh/json.md)
-  * [ ] XML
+  * [ ] [XML](formaty-dannykh/xml.md)
   * [ ] CSV \(u stupid\)
 * [ ] Алгоритмы кодирования
   * [ ] URLencode
