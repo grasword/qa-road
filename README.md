@@ -31,10 +31,10 @@
 * [ ] Форматы данных
   * [ ] [JSON](formaty-dannykh/json.md)
   * [ ] [XML](formaty-dannykh/xml.md)
-  * [ ] CSV \(u stupid\)
+  * [ ] [CSV](formaty-dannykh/csv.md)
 * [ ] Алгоритмы кодирования
   * [ ] URLencode
-  * [ ] Base64
+  * [ ] [Base64](algoritmy-kodirovaniya/base64.md)
 * [ ] Софт
   * [ ] [Cypress](software/cypress.md)
   * [ ] Postman

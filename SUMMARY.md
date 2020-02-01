@@ -42,3 +42,7 @@
 * [XML](formaty-dannykh/xml.md)
 * [CSV](formaty-dannykh/csv.md)
 
+## Алгоритмы кодирования
+
+* [Base64](algoritmy-kodirovaniya/base64.md)
+
