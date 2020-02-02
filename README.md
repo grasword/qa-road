@@ -33,7 +33,7 @@
   * [ ] [XML](formaty-dannykh/xml.md)
   * [ ] [CSV](formaty-dannykh/csv.md)
 * [ ] Алгоритмы кодирования
-  * [ ] URLencode
+  * [ ] [URLencode](algoritmy-kodirovaniya/urlencode.md)
   * [ ] [Base64](algoritmy-kodirovaniya/base64.md)
 * [ ] Софт
   * [ ] [Cypress](software/cypress.md)
