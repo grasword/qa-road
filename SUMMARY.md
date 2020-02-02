@@ -44,5 +44,6 @@
 
 ## Алгоритмы кодирования
 
+* [URLencode](algoritmy-kodirovaniya/urlencode.md)
 * [Base64](algoritmy-kodirovaniya/base64.md)
 
