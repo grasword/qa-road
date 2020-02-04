@@ -1,7 +1,5 @@
 # Table of content
 
-
-
 * [ ] Теория
   * [ ] [SDLC](sdlc.md)
   * [ ] [STLC](stlc.md)
