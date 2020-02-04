@@ -4,9 +4,9 @@
 
 ## Теория
 
-* [FAQ](faq.md)
 * [SDLC](sdlc.md)
 * [STLC](stlc.md)
+* [FAQ](faq.md)
 * [Тестирование Основы](testing-basics.md)
 * [TMP](tmp.md)
 

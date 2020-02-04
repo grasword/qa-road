@@ -41,7 +41,7 @@
   * [ ] Docker
   * [ ] Git
   * [ ] curl
-* [ ] [Тестирование](testirovanie/testing.md)
+* [ ] Тестирование
   * [ ] [Unit testing](testirovanie/testing.md#unit-testing)
   * [ ] [Integration Testing](testirovanie/testing.md#integration-testing)
   * [ ] [Functional testing](testirovanie/testing.md#functional-testing)
