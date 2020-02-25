@@ -1,15 +1,15 @@
 # Table of content
 
 * [ ] Теория
-  * [ ] [SDLC](sdlc.md)
-  * [ ] [STLC](stlc.md)
-  * [ ] [FAQ](faq.md)
-  * [ ] [Тестирование Основы](testing-basics.md)
+  * [x] [SDLC](sdlc.md)
+  * [x] [STLC](stlc.md)
+  * [x] [FAQ](faq.md)
+  * [x] [Тестирование Основы](testing-basics.md)
 * [ ] Тестовая документация
-  * [ ] [План по тестированию](testovaya-dokumentaciya/test-plan.md)
-  * [ ] [Чек-листы](testovaya-dokumentaciya/check-list.md)
-  * [ ] [Баг-репорты](testovaya-dokumentaciya/bug-report.md)
-  * [ ] [Тест-кейсы](testovaya-dokumentaciya/test-cases.md)
+  * [x] [План по тестированию](testovaya-dokumentaciya/test-plan.md)
+  * [x] [Чек-листы](testovaya-dokumentaciya/check-list.md)
+  * [x] [Баг-репорты](testovaya-dokumentaciya/bug-report.md)
+  * [x] [Тест-кейсы](testovaya-dokumentaciya/test-cases.md)
 * [ ] Баг трекеры \(обнаружение, документирование и отслеживание ошибок\)
   * [ ] Jira
   * [ ] Readmine
@@ -20,19 +20,19 @@
   * [ ] Chrome DevTools \(перехват запросов, анализ данных, поиск ошибок\)
   * [ ] Firefox WebDeveloper Edition
 * [ ] HTTP
-  * [ ] [Основы ](http/basics-http.md)\(понимание как браузер взаимодействует с серверными веб-приложениями\)
-  * [ ] [Методы](http/basics-http.md#metody)
-  * [ ] [API](http/api.md)
-  * [ ] [REST](http/rest.md)
-  * [ ] [Коды состояний HTTP](http/rest.md#20e3)
-  * [ ] [SOAP](http/soap.md)
+  * [x] [Основы ](http/basics-http.md)\(понимание как браузер взаимодействует с серверными веб-приложениями\)
+  * [x] [Методы](http/basics-http.md#metody)
+  * [x] [API](http/api.md)
+  * [x] [REST](http/rest.md)
+  * [x] [Коды состояний HTTP](http/rest.md#20e3)
+  * [x] [SOAP](http/soap.md)
 * [ ] Форматы данных
-  * [ ] [JSON](formaty-dannykh/json.md)
-  * [ ] [XML](formaty-dannykh/xml.md)
-  * [ ] [CSV](formaty-dannykh/csv.md)
+  * [x] [JSON](formaty-dannykh/json.md)
+  * [x] [XML](formaty-dannykh/xml.md)
+  * [x] [CSV](formaty-dannykh/csv.md)
 * [ ] Алгоритмы кодирования
-  * [ ] [URLencode](algoritmy-kodirovaniya/urlencode.md)
-  * [ ] [Base64](algoritmy-kodirovaniya/base64.md)
+  * [x] [URLencode](algoritmy-kodirovaniya/urlencode.md)
+  * [x] [Base64](algoritmy-kodirovaniya/base64.md)
 * [ ] Софт
   * [ ] [Cypress](software/cypress.md)
   * [ ] Postman
@@ -40,17 +40,17 @@
   * [ ] Git
   * [ ] curl
 * [ ] Тестирование
-  * [ ] [Unit testing](testirovanie/testing.md#unit-testing)
-  * [ ] [Integration Testing](testirovanie/testing.md#integration-testing)
-  * [ ] [Functional testing](testirovanie/testing.md#functional-testing)
-  * [ ] [System Testing](testirovanie/testing.md#system-testing)
-  * [ ] [Acceptance Testing](testirovanie/testing.md#acceptance-testing-smoke-testing) \(Smoke testing\)
-  * [ ] [Regression Testing](testirovanie/testing.md#regression-testing)
-  * [ ] [Black-Box Testing](testirovanie/testing.md#black-box-testing)
-  * [ ] [White-Box Testing](testirovanie/testing.md#white-box-testing)
-  * [ ] [Gray-Box Testing](testirovanie/testing.md#grey-box-testing)
-  * [ ] [Test automatization](testirovanie/testing.md#test-automatization)
-  * [ ] [End-to-end testing](testirovanie/testing.md#end-to-end-testing)
+  * [x] [Unit testing](testirovanie/testing.md#unit-testing)
+  * [x] [Integration Testing](testirovanie/testing.md#integration-testing)
+  * [x] [Functional testing](testirovanie/testing.md#functional-testing)
+  * [x] [System Testing](testirovanie/testing.md#system-testing)
+  * [x] [Acceptance Testing](testirovanie/testing.md#acceptance-testing-smoke-testing) \(Smoke testing\)
+  * [x] [Regression Testing](testirovanie/testing.md#regression-testing)
+  * [x] [Black-Box Testing](testirovanie/testing.md#black-box-testing)
+  * [x] [White-Box Testing](testirovanie/testing.md#white-box-testing)
+  * [x] [Gray-Box Testing](testirovanie/testing.md#grey-box-testing)
+  * [x] [Test automatization](testirovanie/testing.md#test-automatization)
+  * [x] [End-to-end testing](testirovanie/testing.md#end-to-end-testing)
 * [ ] [Tools for Software Testing](tools-1/tools.md)
   * [ ] [Screenshots](tools-1/tools.md#screenshots)
   * [ ] [Preparing Test Data](tools-1/tools.md#preparing-test-data)
