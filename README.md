@@ -17,7 +17,7 @@
   * [ ] Git
   * [ ] GitHub
 * [ ] Браузеры
-  * [ ] Chrome DevTools \(перехват запросов, анализ данных, поиск ошибок\)
+  * [x] Chrome DevTools \(перехват запросов, анализ данных, поиск ошибок\)
   * [ ] Firefox WebDeveloper Edition
 * [ ] HTTP
   * [x] [Основы ](http/basics-http.md)\(понимание как браузер взаимодействует с серверными веб-приложениями\)
@@ -34,11 +34,11 @@
   * [x] [URLencode](algoritmy-kodirovaniya/urlencode.md)
   * [x] [Base64](algoritmy-kodirovaniya/base64.md)
 * [ ] Софт
-  * [ ] [Cypress](software/cypress.md)
-  * [ ] Postman
+  * [x] [Cypress](software/cypress.md)
+  * [x] Postman
   * [ ] Docker
   * [ ] Git
-  * [ ] curl
+  * [x] curl
 * [ ] Тестирование
   * [x] [Unit testing](testirovanie/testing.md#unit-testing)
   * [x] [Integration Testing](testirovanie/testing.md#integration-testing)
