@@ -10,6 +10,7 @@
 * [STLC](stlc.md)
 * [FAQ](faq.md)
 * [Тестирование Основы](testing-basics.md)
+* [Java Script](js.md)
 * [TMP](tmp.md)
 
 ## software
