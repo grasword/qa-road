@@ -11,17 +11,17 @@
   * [x] [Чек-листы](testovaya-dokumentaciya/check-list.md)
   * [x] [Баг-репорты](testovaya-dokumentaciya/bug-report.md)
   * [x] [Тест-кейсы](testovaya-dokumentaciya/test-cases.md)
-* [ ] Баг трекеры \(обнаружение, документирование и отслеживание ошибок\)
+* [ ] Баг трекеры (обнаружение, документирование и отслеживание ошибок)
   * [ ] Jira
   * [ ] Readmine
 * [ ] Системы управления версиями
   * [ ] Git
   * [ ] GitHub
 * [ ] Браузеры
-  * [x] Chrome DevTools \(перехват запросов, анализ данных, поиск ошибок\)
+  * [x] Chrome DevTools (перехват запросов, анализ данных, поиск ошибок)
   * [ ] Firefox WebDeveloper Edition
 * [ ] HTTP
-  * [x] [Основы ](http/basics-http.md)\(понимание как браузер взаимодействует с серверными веб-приложениями\)
+  * [x] [Основы ](http/basics-http.md)(понимание как браузер взаимодействует с серверными веб-приложениями)
   * [x] [Методы](http/basics-http.md#metody)
   * [x] [API](http/api.md)
   * [x] [REST](http/rest.md)
@@ -45,7 +45,7 @@
   * [x] [Integration Testing](testirovanie/testing.md#integration-testing)
   * [x] [Functional testing](testirovanie/testing.md#functional-testing)
   * [x] [System Testing](testirovanie/testing.md#system-testing)
-  * [x] [Acceptance Testing](testirovanie/testing.md#acceptance-testing-smoke-testing) \(Smoke testing\)
+  * [x] [Acceptance Testing](testirovanie/testing.md#acceptance-testing-smoke-testing) (Smoke testing)
   * [x] [Regression Testing](testirovanie/testing.md#regression-testing)
   * [x] [Black-Box Testing](testirovanie/testing.md#black-box-testing)
   * [x] [White-Box Testing](testirovanie/testing.md#white-box-testing)
@@ -64,6 +64,4 @@
   * [ ] [Test Management](tools-1/tools.md#test-management)
   * [ ] [Mind Maps](tools-1/tools.md#mind-maps)
   * [ ] [Usability](tools-1/tools.md#usability)
-
-
 
