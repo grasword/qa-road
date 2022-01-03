@@ -62,7 +62,7 @@ Source: [https://maksimivanov.com/posts/statements-expressions-js/](https://maks
 
 JavaScript currently supports eight data types. All of these data types (`Booleans`, `Null`, `Undefined`, `Number`, `BigInt`, `String`, `Symbol`) are **primitive values** except for **object references**.
 
-`Arrays`, `functions`, `NaN`, and `dates` all play an important role in JavaScript programs, but they are really just objects under the hood.
+`Arrays`, `functions`, and `Dates` all play an important role in JavaScript programs, but they are really just objects under the hood.
 
 Primitive values can be stored in variables directly. Objects, on the other hand, are stored as references. A variable that has been assigned an object does not store that object directly, it stores the memory address of the location that the object exists at.
 
