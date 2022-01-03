@@ -105,7 +105,7 @@ Here’s a breakdown of the work JavaScript does under the hood:
 
 #### Is Everything in JavaScript an Object? <a href="#78d8" id="78d8"></a>
 
-Not quite. It might be more accurate to say something along the lines of everything in JavaScript can appear to behave like an object_._ Primitives like `String`, `boolean`, and `number` can behave like objects thanks to JavaScript features called object-wrapping and autoboxing.
+Not quite. It might be more accurate to say something along the lines of everything in JavaScript can appear to behave like an object. __ Primitives like `String`, `boolean`, and `number` can behave like objects thanks to JavaScript features called object-wrapping and autoboxing.
 
 // Source: [https://betterprogramming.pub/everything-in-javascript-is-an-object-except-for-when-it-isnt-305bc65a3410](https://betterprogramming.pub/everything-in-javascript-is-an-object-except-for-when-it-isnt-305bc65a3410)
 
