@@ -4,20 +4,21 @@
 
 ## Теория
 
----
+***
 
 * [SDLC](sdlc.md)
 * [STLC](stlc.md)
 * [FAQ](faq.md)
 * [Тестирование Основы](testing-basics.md)
 * [Java Script](js.md)
-* [TMP](tmp.md)
+* [Методы разработки алгоритмов](tmp.md)
+* [Interview questions](interview-questions.md)
 
 ## software
 
 * [Cypress](software/cypress.md)
 
-## Tools <a id="tools-1"></a>
+## Tools <a href="#tools-1" id="tools-1"></a>
 
 * [Tools for Software Testing](tools-1/tools.md)
 
@@ -49,4 +50,3 @@
 
 * [URL-encode](algoritmy-kodirovaniya/urlencode.md)
 * [Base64](algoritmy-kodirovaniya/base64.md)
-
