@@ -154,6 +154,8 @@ The _control flow_ is the order in which the computer executes statements in a s
 
 Code is run in order from the first line in the file to the last line, unless the computer runs across the (extremely frequent) structures that change the control flow, such as conditionals and loops.
 
+Source: [https://developer.mozilla.org/en-US/docs/Glossary/Control\_flow](https://developer.mozilla.org/en-US/docs/Glossary/Control\_flow)
+
 ### 9) What is the difference between `===` and `==`?
 
 The loose equality operator (`==`) will return `true` if the values of the two items being compared are the same. The strict equality operator (`===`) returns `true` if the values **and** types of the two objects being compared are the same.
