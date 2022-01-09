@@ -35,10 +35,10 @@
   * [x] [URLencode](algoritmy-kodirovaniya/urlencode.md)
   * [x] [Base64](algoritmy-kodirovaniya/base64.md)
 * [ ] Софт
-  * [x] [Cypress](software/cypress.md)
-  * [x] Postman
+  * [x] Cypress
+  * [ ] Postman
   * [ ] Docker
-  * [ ] Git
+  * [x] Git
   * [x] curl
 * [ ] Тестирование
   * [x] [Unit testing](testirovanie/testing.md#unit-testing)
@@ -52,16 +52,17 @@
   * [x] [Gray-Box Testing](testirovanie/testing.md#grey-box-testing)
   * [x] [Test automatization](testirovanie/testing.md#test-automatization)
   * [x] [End-to-end testing](testirovanie/testing.md#end-to-end-testing)
-* [ ] [Tools for Software Testing](tools-1/tools.md)
-  * [ ] [Screenshots](tools-1/tools.md#screenshots)
-  * [ ] [Preparing Test Data](tools-1/tools.md#preparing-test-data)
-  * [ ] [Validators](tools-1/tools.md#validators)
-  * [ ] [Performance](tools-1/tools.md#performance)
-  * [ ] [Compatibility Checkers](tools-1/tools.md#compatibility-checkers)
-  * [ ] [Security](tools-1/tools.md#security)
-  * [ ] [Web Proxies](tools-1/tools.md#web-proxies)
-  * [ ] [Generic Web Testing](tools-1/tools.md#generic-web-testing)
-  * [ ] [Test Management](tools-1/tools.md#test-management)
-  * [ ] [Mind Maps](tools-1/tools.md#mind-maps)
-  * [ ] [Usability](tools-1/tools.md#usability)
 
+#### [Tools for Software Testing](tools-1/tools.md)
+
+* [Screenshots](tools-1/tools.md#screenshots)
+* [Preparing Test Data](tools-1/tools.md#preparing-test-data)
+* [Validators](tools-1/tools.md#validators)
+* [Performance](tools-1/tools.md#performance)
+* [Compatibility Checkers](tools-1/tools.md#compatibility-checkers)
+* [Security](tools-1/tools.md#security)
+* [Web Proxies](tools-1/tools.md#web-proxies)
+* [Generic Web Testing](tools-1/tools.md#generic-web-testing)
+* [Test Management](tools-1/tools.md#test-management)
+* [Mind Maps](tools-1/tools.md#mind-maps)
+* [Usability](tools-1/tools.md#usability)

@@ -156,6 +156,20 @@ Code is run in order from the first line in the file to the last line, unless th
 
 Source: [https://developer.mozilla.org/en-US/docs/Glossary/Control\_flow](https://developer.mozilla.org/en-US/docs/Glossary/Control\_flow)
 
-### 9) What is the difference between `===` and `==`?
+### 8) What is the difference between `===` and `==`?
 
 The loose equality operator (`==`) will return `true` if the values of the two items being compared are the same. The strict equality operator (`===`) returns `true` if the values **and** types of the two objects being compared are the same.
+
+
+
+### 9)What is the hoisting?
+
+Sourse: [https://developer.mozilla.org/ru/docs/Glossary/Hoisting](https://developer.mozilla.org/ru/docs/Glossary/Hoisting)
+
+Поднятие (hoisting) — термин, который вы _не_ встретите в документации JavaScript. Поднятие задумывалось как общий способ мышления о том, как контекст исполнения (в частности, фазы создания и исполнения) работает в JavaScript. Однако, hoisting может привести и к недоразумениям. Например, hoisting учит, что объявление переменной или функции физически перемещается в начало вашего кода, хотя в действительности этого не происходит. На самом же деле, объявления переменных и функций попадают в память в процессе фазы компиляции, но остаются в коде на том месте, где вы их объявили.
+
+### 10) [What is the DOM?](https://developer.mozilla.org/en-US/docs/Web/API/Document\_Object\_Model/Introduction#what\_is\_the\_dom) <a href="#what_is_the_dom" id="what_is_the_dom"></a>
+
+**The Document Object Model (DOM)** is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.
+
+A web page is a document that can be either displayed in the browser window or as the HTML source. In both cases, it is the same document but the Document Object Model (DOM) representation allows it to be manipulated. As an object-oriented representation of the web page, it can be modified with a scripting language such as JavaScript.
