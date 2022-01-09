@@ -53,6 +53,10 @@
   * [x] [Test automatization](testirovanie/testing.md#test-automatization)
   * [x] [End-to-end testing](testirovanie/testing.md#end-to-end-testing)
 
+Другое
+
+* [Методы разработки алгоритмов](tmp.md)
+
 #### [Tools for Software Testing](tools-1/tools.md)
 
 * [Screenshots](tools-1/tools.md#screenshots)
