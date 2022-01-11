@@ -11,8 +11,6 @@
 * [FAQ](faq.md)
 * [Тестирование Основы](testing-basics.md)
 * [Java Script](js.md)
-* [Методы разработки алгоритмов](tmp.md)
-* [Interview questions](interview-questions.md)
 
 ## software
 
@@ -50,3 +48,8 @@
 
 * [URL-encode](algoritmy-kodirovaniya/urlencode.md)
 * [Base64](algoritmy-kodirovaniya/base64.md)
+
+## Другое
+
+* [Методы разработки алгоритмов](drugoe/tmp.md)
+* [Interview questions](drugoe/interview-questions.md)

@@ -234,25 +234,25 @@ _Веб-страница_ – это документ. Документ може
 
 **Жизненный цикл дефекта** – это стадии, которые проходит ошибка с начала своего существования и до ее полного разрешения. Чтобы было проще воспринимать, жизненный цикл рисуют схематично, где отображаются все статусы и действия, которые эти статусы и сменяют.
 
-![](<.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20).png>)
 
 ### 15) Типы тестирования
 
 
 
-![](<.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23).png>)
 
 ### 16) Модели разработки (Agile)
 
-![](<.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17).png>)
 
-![](<.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21).png>)
 
-![](<.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18).png>)
 
-![](<.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22).png>)
 
-![](<.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19).png>)
 
 ### 17) Верификация и валидация
 
