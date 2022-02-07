@@ -1,0 +1,17 @@
+# SQL
+
+
+
+For a table to be in the **1st normal form**, it should follow the next rules:
+
+* each table cell should contain an atomic value
+* all the columns in a table should have unique names
+* values stored in a column should be of the same datatype
+* each row in a table needs to be unique
+* the order in which data is stored, does not matter
+
+
+
+### Transactions
+
+![](<../.gitbook/assets/image (20).png>)

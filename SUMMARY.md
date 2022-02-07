@@ -53,3 +53,4 @@
 
 * [Методы разработки алгоритмов](drugoe/tmp.md)
 * [Interview questions](drugoe/interview-questions.md)
+* [SQL](drugoe/sql.md)
