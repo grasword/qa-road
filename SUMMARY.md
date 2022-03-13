@@ -54,3 +54,4 @@
 * [Методы разработки алгоритмов](drugoe/tmp.md)
 * [Interview questions](drugoe/interview-questions.md)
 * [SQL](drugoe/sql.md)
+* [Basics of System Design ](drugoe/basics-of-system-design.md)
