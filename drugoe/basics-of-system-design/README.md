@@ -10,11 +10,11 @@ Whenever we are designing a large system, we need to consider a few things:
 
 ## Key Characteristics of Distributed Systems
 
-* [Scalability](basics-of-system-design.md#scalability)
-* [Reliability](basics-of-system-design.md#reliability)
-* [Availability](basics-of-system-design.md#availability)
-* [Efficiency](basics-of-system-design.md#efficiency)
-* [Serviceability or Manageability](basics-of-system-design.md#serviceability-or-manageability)
+* [Scalability](./#scalability)
+* [Reliability](./#reliability)
+* [Availability](./#availability)
+* [Efficiency](./#efficiency)
+* [Serviceability or Manageability](./#serviceability-or-manageability)
 
 ### Scalability <a href="#scalability" id="scalability"></a>
 
@@ -26,7 +26,7 @@ Whenever we are designing a large system, we need to consider a few things:
 
 &#x20; Good examples of horizontal scaling are [Cassandra](https://en.wikipedia.org/wiki/Apache\_Cassandra) and [MongoDB](https://en.wikipedia.org/wiki/MongoDB) as they both provide an easy way to scale horizontally by adding more machines to meet growing needs. Similarly, a good example of vertical scaling is MySQL as it allows for an easy way to scale vertically by switching from smaller to bigger machines. However, this process often involves downtime.
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (24) (1).png>)
 
 ### Reliability <a href="#reliability" id="reliability"></a>
 
