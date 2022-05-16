@@ -63,10 +63,10 @@
 
 ### Инструментальные средства для тестирования производительности
 
-* [Apache JMeter](https://jmeter.apache.org)
+* [Apache JMeter](https://jmeter.apache.org/)
 * [NeoLoad](https://www.neotys.com/neoload/overview)
 * [LoadRunner](https://www.microfocus.com/ru-ru/products/loadrunner-load-testing/overview)
-* [Dynatrace](https://www.dynatrace.com)
+* [Dynatrace](https://www.dynatrace.com/)
 
 ## Положительное тестирование (Positive testing)
 

@@ -12,13 +12,15 @@ What happens when you expand this to many nodes? If the request layer is expande
 
 CDNs are a kind of cache that comes into play for sites serving large amounts of static media. In a typical CDN setup, a request will first ask the CDN for a piece of static media; the CDN will serve that content if it has it locally available. If it isn’t available, the CDN will query the back-end servers for the file, cache it locally, and serve it to the requesting user.
 
-If the system we are building is not large enough to have its own CDN, we can ease a future transition by serving the static media off a separate subdomain (e.g., [static.yourservice.com](http://static.yourservice.com)) using a lightweight HTTP server like Nginx, and cut-over the DNS from your servers to a CDN later.
+If the system we are building is not large enough to have its own CDN, we can ease a future transition by serving the static media off a separate subdomain (e.g., [static.yourservice.com](http://static.yourservice.com/)) using a lightweight HTTP server like Nginx, and cut-over the DNS from your servers to a CDN later.
 
 ### Cache Invalidation <a href="#cache-invalidation" id="cache-invalidation"></a>
 
 While caching is fantastic, it requires some maintenance to keep the cache coherent with the source of truth (e.g., database). If the data is modified in the database, it should be invalidated in the cache; if not, this can cause inconsistent application behavior.
 
 Solving this problem is known as cache invalidation; there are three main schemes that are used:
+
+![](<../../.gitbook/assets/image (22).png>)
 
 **Write-through cache:** Under this scheme, data is written into the cache and the corresponding database simultaneously. The cached data allows for fast retrieval and, since the same data gets written in the permanent storage, we will have complete data consistency between the cache and the storage. Also, this scheme ensures that nothing will get lost in case of a crash, power failure, or other system disruptions.
 

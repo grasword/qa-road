@@ -1,5 +1,14 @@
 # Basics of System Design&#x20;
 
+* [Load Balancing](load-balancing.md)
+* [Caching](caching.md)
+* Data Partitioning
+* Indexes
+* Proxies
+* Redundancy and Replication
+* SQL vs. NoSQL
+* CAP Theorem
+
 ## System Design Basics
 
 Whenever we are designing a large system, we need to consider a few things:
