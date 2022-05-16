@@ -35,7 +35,7 @@ Whenever we are designing a large system, we need to consider a few things:
 
 &#x20; Good examples of horizontal scaling are [Cassandra](https://en.wikipedia.org/wiki/Apache\_Cassandra) and [MongoDB](https://en.wikipedia.org/wiki/MongoDB) as they both provide an easy way to scale horizontally by adding more machines to meet growing needs. Similarly, a good example of vertical scaling is MySQL as it allows for an easy way to scale vertically by switching from smaller to bigger machines. However, this process often involves downtime.
 
-![](<../../.gitbook/assets/image (24) (1).png>)
+![](<../../.gitbook/assets/image (24) (1) (1).png>)
 
 ### Reliability <a href="#reliability" id="reliability"></a>
 
