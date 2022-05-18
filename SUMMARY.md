@@ -59,3 +59,4 @@
   * [Caching](drugoe/basics-of-system-design/caching.md)
   * [Data Partitioning](drugoe/basics-of-system-design/data-partitioning.md)
   * [Indexes](drugoe/basics-of-system-design/indexes.md)
+  * [Proxies](drugoe/basics-of-system-design/proxies.md)

@@ -242,7 +242,7 @@ _Веб-страница_ – это документ. Документ може
 
 ### 16) Модели разработки (Agile)
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 
 ![](<../.gitbook/assets/image (21) (1) (1) (1).png>)
 
