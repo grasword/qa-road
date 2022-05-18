@@ -16,8 +16,8 @@
   * [ ] Jira
   * [ ] Readmine
 * [ ] Системы управления версиями
-  * [ ] Git
-  * [ ] GitHub
+  * [x] Git
+  * [x] GitHub
 * [ ] Браузеры
   * [x] Chrome DevTools (перехват запросов, анализ данных, поиск ошибок)
   * [ ] Firefox WebDeveloper Edition
@@ -37,8 +37,8 @@
   * [x] [Base64](algoritmy-kodirovaniya/base64.md)
 * [ ] Софт
   * [x] Cypress
-  * [ ] Postman
-  * [ ] Docker
+  * [x] Postman
+  * [x] Docker
   * [x] Git
   * [x] curl
 * [ ] Тестирование
