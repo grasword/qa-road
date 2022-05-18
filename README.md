@@ -22,8 +22,8 @@
   * [x] Chrome DevTools (перехват запросов, анализ данных, поиск ошибок)
   * [ ] Firefox WebDeveloper Edition
 * [ ] HTTP
-  * [x] [Основы ](http/basics-http.md)(понимание как браузер взаимодействует с серверными веб-приложениями)
-  * [x] [Методы](http/basics-http.md#metody)
+  * [x] [Основы ](http/basics-http.md)HTTP (понимание как браузер взаимодействует с серверными веб-приложениями)
+  * [x] [Методы](http/basics-http.md#metody) HTTP
   * [x] [API](http/api.md)
   * [x] [REST](http/rest.md)
   * [x] [Коды состояний HTTP](http/rest.md#20e3)
@@ -41,6 +41,9 @@
   * [x] Docker
   * [x] Git
   * [x] curl
+  * [x] Mocha
+  * [x] Cucumber
+  * [x] Jenkins
 * [ ] Тестирование
   * [x] [Unit testing](testirovanie/testing.md#unit-testing)
   * [x] [Integration Testing](testirovanie/testing.md#integration-testing)
