@@ -2,8 +2,8 @@
 
 * [Load Balancing](load-balancing.md)
 * [Caching](caching.md)
-* Data Partitioning
-* Indexes
+* [Data Partitioning](data-partitioning.md)
+* [Indexes](indexes.md)
 * Proxies
 * Redundancy and Replication
 * SQL vs. NoSQL
