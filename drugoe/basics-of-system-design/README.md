@@ -5,7 +5,7 @@
 * [Data Partitioning](data-partitioning.md)
 * [Indexes](indexes.md)
 * [Proxies](proxies.md)
-* Redundancy and Replication
+* [Redundancy and Replication](redundancy-and-replication.md)
 * SQL vs. NoSQL
 * CAP Theorem
 
