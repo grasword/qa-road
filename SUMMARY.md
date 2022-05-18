@@ -58,3 +58,4 @@
   * [Load Balancing](drugoe/basics-of-system-design/load-balancing.md)
   * [Caching](drugoe/basics-of-system-design/caching.md)
   * [Data Partitioning](drugoe/basics-of-system-design/data-partitioning.md)
+  * [Indexes](drugoe/basics-of-system-design/indexes.md)

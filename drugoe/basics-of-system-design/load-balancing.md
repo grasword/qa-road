@@ -12,7 +12,7 @@ To utilize full scalability and redundancy, we can try to balance the load at ea
 * Between web servers and an internal platform layer, like application servers or cache servers
 * Between internal platform layer and database.
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21) (1).png>)
 
 ### Benefits of Load Balancing <a href="#benefits-of-load-balancing" id="benefits-of-load-balancing"></a>
 
