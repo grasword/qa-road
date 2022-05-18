@@ -4,7 +4,7 @@
 * [Caching](caching.md)
 * [Data Partitioning](data-partitioning.md)
 * [Indexes](indexes.md)
-* Proxies
+* [Proxies](proxies.md)
 * Redundancy and Replication
 * SQL vs. NoSQL
 * CAP Theorem
