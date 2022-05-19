@@ -61,3 +61,4 @@
   * [Indexes](drugoe/basics-of-system-design/indexes.md)
   * [Proxies](drugoe/basics-of-system-design/proxies.md)
   * [Redundancy and Replication](drugoe/basics-of-system-design/redundancy-and-replication.md)
+  * [SQL vs. NoSQL](drugoe/basics-of-system-design/sql-vs.-nosql.md)
