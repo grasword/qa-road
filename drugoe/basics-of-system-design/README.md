@@ -6,7 +6,7 @@
 * [Indexes](indexes.md)
 * [Proxies](proxies.md)
 * [Redundancy and Replication](redundancy-and-replication.md)
-* SQL vs. NoSQL
+* [SQL vs. NoSQL](sql-vs.-nosql.md)
 * CAP Theorem
 
 ## System Design Basics
