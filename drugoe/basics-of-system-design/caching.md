@@ -20,7 +20,7 @@ While caching is fantastic, it requires some maintenance to keep the cache coher
 
 Solving this problem is known as cache invalidation; there are three main schemes that are used:
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (22) (1).png>)
 
 **Write-through cache:** Under this scheme, data is written into the cache and the corresponding database simultaneously. The cached data allows for fast retrieval and, since the same data gets written in the permanent storage, we will have complete data consistency between the cache and the storage. Also, this scheme ensures that nothing will get lost in case of a crash, power failure, or other system disruptions.
 

@@ -248,7 +248,7 @@ _Веб-страница_ – это документ. Документ може
 
 ![](<../.gitbook/assets/image (18).png>)
 
-![](<../.gitbook/assets/image (22) (1) (1).png>)
+![](<../.gitbook/assets/image (22) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (19).png>)
 
