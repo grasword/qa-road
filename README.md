@@ -61,6 +61,7 @@
 
 * [Методы разработки алгоритмов](drugoe/tmp.md)
 * [Interview questions](drugoe/interview-questions.md)
+* [English](drugoe/english.md)
 
 #### [Tools for Software Testing](tools-1/tools.md)
 
