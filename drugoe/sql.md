@@ -24,7 +24,7 @@ For a table to be in the **1st normal form**, it should follow the next rules:
 
 ![](<../.gitbook/assets/image (22) (1) (1).png>)
 
-![](<../.gitbook/assets/image (23) (1) (1).png>)
+![](<../.gitbook/assets/image (23) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (21) (1) (1).png>)
 
@@ -32,4 +32,4 @@ For a table to be in the **1st normal form**, it should follow the next rules:
 
 ### SELECT Statement
 
-![](<../.gitbook/assets/image (23) (1).png>)
+![](<../.gitbook/assets/image (23) (1) (1).png>)

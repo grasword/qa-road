@@ -62,4 +62,5 @@
   * [Proxies](drugoe/basics-of-system-design/proxies.md)
   * [Redundancy and Replication](drugoe/basics-of-system-design/redundancy-and-replication.md)
   * [SQL vs. NoSQL](drugoe/basics-of-system-design/sql-vs.-nosql.md)
-* [English](drugoe/english.md)
+* [English](drugoe/english/README.md)
+  * [A1](drugoe/english/a1.md)
