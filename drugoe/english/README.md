@@ -6,7 +6,7 @@
 
 ### Present simple vs present continuous – use
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (22) (1).png>)
 
 ## [Future forms – will, be going to, present continuous](https://test-english.com/grammar-points/b1/future-forms/)
 

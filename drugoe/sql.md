@@ -14,15 +14,15 @@ For a table to be in the **1st normal form**, it should follow the next rules:
 
 ### Transactions
 
-![](<../.gitbook/assets/image (20) (1).png>)
+![](<../.gitbook/assets/image (20) (1) (1).png>)
 
 ### SQL Statements
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 
 ### PostgreSQL
 
-![](<../.gitbook/assets/image (22) (1) (1).png>)
+![](<../.gitbook/assets/image (22) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (23) (1) (1) (1).png>)
 
