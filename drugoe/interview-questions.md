@@ -246,11 +246,11 @@ _Веб-страница_ – это документ. Документ може
 
 ![](<../.gitbook/assets/image (21) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (18) (1).png>)
+![](<../.gitbook/assets/image (18) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (22) (1) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (19) (1).png>)
+![](<../.gitbook/assets/image (19) (1) (1).png>)
 
 ### 17) Верификация и валидация
 
