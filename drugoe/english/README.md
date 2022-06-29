@@ -2,7 +2,7 @@
 
 ## [Present simple or present continuous](https://test-english.com/grammar-points/b1/present-simple-present-continuous/)
 
-![](<../../.gitbook/assets/image (26) (1) (1).png>)
+![](<../../.gitbook/assets/image (26) (1) (1) (1).png>)
 
 ### Present simple vs present continuous – use
 
