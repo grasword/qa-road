@@ -16,7 +16,7 @@ In addition to coordinating requests from multiple servers, proxies can also opt
 
 A reverse proxy retrieves resources from one or more servers on behalf of a client. These resources are then returned to the client, appearing as if they originated from the proxy server itself, thus anonymizing the server. Contrary to the forward proxy, which hides the client’s identity, a reverse proxy hides the server’s identity.
 
-![](<../../.gitbook/assets/image (25) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (25) (1) (1) (1) (1) (1).png>)
 
 In the above diagram, the reverse proxy hides the final server that served the request from the client. The client makes a request for some content from [facebook.com](http://facebook.com/); this request is served by facebook’s reverse proxy server, which gets the response from one of the backend servers and returns it to the client.
 

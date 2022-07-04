@@ -4,7 +4,7 @@
 
 Redundancy plays a key role in removing the single points of failure in the system and provides backups if needed in a crisis. For example, if we have two instances of a service running in production and one fails, the system can failover to the other one.
 
-![](<../../.gitbook/assets/image (25) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (25) (1) (1) (1) (1).png>)
 
 [Replication](https://en.wikipedia.org/wiki/Replication\_\(computing\)) means sharing information to ensure consistency between redundant resources, such as software or hardware components, to improve reliability, [fault-tolerance](https://en.wikipedia.org/wiki/Fault\_tolerance), or accessibility.
 
