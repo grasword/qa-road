@@ -64,3 +64,4 @@
   * [SQL vs. NoSQL](drugoe/basics-of-system-design/sql-vs.-nosql.md)
 * [English](drugoe/english/README.md)
   * [A1](drugoe/english/a1.md)
+  * [A2](drugoe/english/a2.md)
