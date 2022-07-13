@@ -65,3 +65,4 @@
 * [English](drugoe/english/README.md)
   * [A1](drugoe/english/a1.md)
   * [A2](drugoe/english/a2.md)
+  * [Rules](drugoe/english/rules.md)
