@@ -2,7 +2,7 @@
 
 ### Present Simple
 
-* We use the verb <mark style="color:orange;">**do**</mark>** **<mark style="color:blue;">****</mark> to make questions and negatives in present simple.
+* We use the verb <mark style="color:orange;">do</mark> to make questions and negatives in present simple.
 
 ### Past simple
 
