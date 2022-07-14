@@ -1,5 +1,12 @@
 # Rules
 
+We don’t use **for** + **-ing** to say what is the purpose of our actions, why we do something.
+
+* _I work hard _~~_for improving_~~_ my English._![](https://test-english.com/staging03/wp-content/plugins/watupro/wrong.png)
+* _<mark style="color:green;">I work hard to improve my English.</mark>_![](https://test-english.com/staging03/wp-content/plugins/watupro/correct.png)
+* _Turn the TV on _~~_for watching_~~_ the news._![](https://test-english.com/staging03/wp-content/plugins/watupro/wrong.png)
+* _<mark style="color:green;">Turn the TV on to watch the news.</mark>_![](https://test-english.com/staging03/wp-content/plugins/watupro/correct.png)
+
 ### Present Simple
 
 * We use the verb <mark style="color:orange;">**do**</mark>** **<mark style="color:blue;">****</mark> to make questions and negatives in present simple.
