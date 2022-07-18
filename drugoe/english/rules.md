@@ -1,5 +1,9 @@
 # Rules
 
+* The order in an English question is **QWASM**: \
+  \- <mark style="color:green;">How long are you going to stay?</mark>\
+  Question word (<mark style="color:orange;">How long</mark>), Auxiliary (<mark style="color:orange;">are</mark>), Subject (<mark style="color:orange;">you</mark>), Main verb (<mark style="color:orange;">going to stay</mark>).
+
 ### Present Simple
 
 * We use the verb <mark style="color:orange;">do</mark> to make questions and negatives in present simple.
