@@ -44,6 +44,8 @@
   * [x] Mocha
   * [x] Cucumber
   * [x] Jenkins
+  * [ ] NodeJs
+  * [ ] React
 * [ ] Тестирование
   * [x] [Unit testing](testirovanie/testing.md#unit-testing)
   * [x] [Integration Testing](testirovanie/testing.md#integration-testing)
