@@ -330,6 +330,10 @@ select * from clients where name = 'Назина Ольга';
 
 **API** (Application programming interface) —  описание способов которыми одна компьютерная программа может взаимодействовать с другой программой.
 
-****
+### 23) What is the key difference between CSS and XPath selectors?
+
+Xpath:\
+1\) bidirectional \
+2\) can search by text
 
 ****
