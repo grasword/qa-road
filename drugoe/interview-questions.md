@@ -336,7 +336,7 @@ Xpath:\
 1\) bidirectional \
 2\) can search by text
 
-### What is Closure?
+### 24) What is Closure?
 
 A Closure is a combination of a function bundled together with references to its surrounding state (lexical environment). In other worlds, closure give you access to an outer scope function from inner function.
 
