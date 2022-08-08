@@ -298,8 +298,10 @@ Source: [https://habr.com/ru/post/495698/](https://habr.com/ru/post/495698/)
 
 Source: [https://quality-lab.ru/blog/roles-and-responsibilities-of-test-designer/](https://quality-lab.ru/blog/roles-and-responsibilities-of-test-designer/)
 
-1. Тестирование Классами Эквивалентности (Equivalence Class Testing).
-2. Тестирование Граничных Значений (Boundary Value Testing).
+1. Тестирование Классами Эквивалентности (Equivalence Class Testing)\
+   An equivalence class consists of a set of data that is treated the same by a module or that should produce the same result.
+2. Тестирование Граничных Значений (Boundary Value Testing).\
+   The boundaries — the “edges” of each equivalence class
 3. Таблица Принятия Решений (Decision Table Testing).
 4. Тестирование Состояний и Переходов (State-Transition Testing).
 5. Метод Парного Тестирования (Pairwise testing).
