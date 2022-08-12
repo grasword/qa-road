@@ -2,6 +2,14 @@
 
 ## Принципы тестирования:
 
+* Testing shows the presence of defects, not their absence.&#x20;
+* Exhaustive testing is impossible.&#x20;
+* Early testing saves time and money.
+* Defects cluster together.
+* Beware of the pesticide paradox.
+* Testing is context dependent.&#x20;
+* Absence-of-errors is a fallacy.
+
 **1. Тестирование показывает наличие дефектов**
 
 Тестирование может показать наличие дефектов в программе, но не доказать их отсутствие. Тем не менее, важно составлять тест-кейсы, которые будут находить как можно больше багов. Таким образом, при должном тестовом покрытии, тестирование позволяет снизить вероятность наличия дефектов в программном обеспечении. В то же время, даже если дефекты не были найдены в процессе тестирования, нельзя утверждать, что их нет.
