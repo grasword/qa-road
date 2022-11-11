@@ -11,6 +11,7 @@
 * [FAQ](faq.md)
 * [Тестирование Основы](testing-basics.md)
 * [Java Script](js.md)
+* [TypeScript](typescript.md)
 
 ## software
 

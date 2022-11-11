@@ -5,7 +5,8 @@
   * [x] [STLC](stlc.md)
   * [x] [FAQ](faq.md)
   * [x] [Тестирование Основы](testing-basics.md)
-  * [x] [JS](js.md)
+  * [x] [JavaScript](js.md)
+  * [ ] [TypeScript](typescript.md)
   * [ ] [Basics of System Design](drugoe/basics-of-system-design/)
 * [ ] Тестовая документация
   * [x] [План по тестированию](testovaya-dokumentaciya/test-plan.md)
