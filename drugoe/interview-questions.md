@@ -340,4 +340,324 @@ Xpath:\
 
 A Closure is a combination of a function bundled together with references to its surrounding state (lexical environment). In other worlds, closure give you access to an outer scope function from inner function.
 
+### 25) Typescript
+
+1.  **What is TypeScript, and what are its benefits over JavaScript?**\
+
+
+    TypeScript is an open-source programming language developed by Microsoft. It is a strict syntactical superset of JavaScript, meaning that it includes all of the features of JavaScript and adds additional syntax for defining types. TypeScript is designed to help developers write more robust and maintainable code by catching errors at compile-time rather than run-time.
+
+    Some benefits of using TypeScript over JavaScript include:
+
+    1. Type checking: TypeScript provides static type checking, which can help catch errors at compile-time rather than run-time. This can help improve code quality and reduce the likelihood of bugs in your code.
+    2. Improved code organization: TypeScript allows developers to define interfaces and classes, which can help improve the organization and structure of code.
+    3. Enhanced IDE support: Because TypeScript includes type information, IDEs such as Visual Studio Code can provide enhanced autocomplete and code navigation features.
+    4. Better code maintainability: Because TypeScript provides better type checking and code organization, it can help make code more maintainable over time.
+    5. Compatibility with existing JavaScript code: Because TypeScript is a superset of JavaScript, developers can use existing JavaScript code with TypeScript, making it easy to adopt in existing projects.
+
+
+2.  **How does TypeScript support static typing, and what are its data types?**\
+    ****\
+    ****TypeScript supports static typing by allowing developers to define the data types of variables, function parameters, and function return values. TypeScript includes a set of built-in data types, including:
+
+    1. Boolean: represents a boolean value (true or false)
+    2. Number: represents a numeric value
+    3. String: represents a string value
+    4. Array: represents an array of values of a specific type
+    5. Tuple: represents an array of values of different types
+    6. Enum: represents a set of named constants
+    7. Any: represents any type of value (similar to dynamic typing in JavaScript)
+    8. Void: represents the absence of a value (typically used as the return type of functions that don't return a value)
+    9. Null and Undefined: represents null or undefined values
+
+    Developers can also define custom data types using interfaces or classes. Interfaces define the shape of an object, while classes define a blueprint for creating objects.
+
+    By using static typing, TypeScript helps catch errors at compile-time, which can improve code quality and maintainability. Additionally, IDEs can use type information to provide enhanced code completion and navigation features.\
+
+3.  **Explain the difference between "any" and "unknown" data types in TypeScript.**\
+    ****\
+    ****In TypeScript, both the "any" and "unknown" data types can be used to represent a value of any type. However, there are some important differences between these data types:
+
+    1. "any": The "any" data type is used to indicate that a variable can be of any type. This means that TypeScript will not perform type checking on values of type "any". While this can be useful in some cases, it can also make code more error-prone and difficult to maintain.
+    2. "unknown": The "unknown" data type is also used to indicate that a variable can be of any type. However, unlike the "any" type, TypeScript will perform type checking on values of type "unknown". This means that developers must perform a type check before using a value of type "unknown". While this can make code more verbose, it can also help catch errors at compile-time and improve code quality.
+
+    In general, it's recommended to use the "unknown" type over the "any" type whenever possible, as it can help improve code quality and maintainability. However, there may be some cases where the "any" type is necessary (e.g., when working with third-party libraries that use dynamic typing).\
+
+4.  **What is the purpose of the "interface" keyword in TypeScript, and how does it differ from a class?**\
+    ****\
+    ****In TypeScript, an interface is a way to define the shape of an object. An interface defines a set of properties and methods that an object must have to be considered of that interface type. The "interface" keyword is used to define an interface in TypeScript.
+
+    For example, consider the following interface:\
+
+
+    ```typescript
+    interface Person {
+      name: string;
+      age: number;
+      sayHello: () => void;
+    }
+    ```
+
+    \
+    This interface defines a type called "Person", which has three properties: "name" of type string, "age" of type number, and "sayHello" which is a function that takes no arguments and returns no value.
+
+    Interfaces are often used to define the shape of data that is being passed between different parts of an application, such as between a frontend and backend API.
+
+    A class, on the other hand, is used to define a blueprint for creating objects. A class can have properties, methods, and constructors, and can be used to create multiple instances of the same type of object.
+
+    While there are some similarities between interfaces and classes (both can define properties and methods), the main difference is that an interface only defines the shape of an object, while a class defines both the shape and behavior of an object.
+
+    In general, it's recommended to use interfaces to define the shape of data, and classes to define the behavior of objects.\
+
+5.  **How does TypeScript support "generics," and what is their use case?**\
+    ****\
+    ****In TypeScript, "generics" are a way to create reusable code that can work with different types. Generics allow us to define a class, function, or interface in a way that can be used with multiple types, making our code more flexible and reusable.
+
+    Here's an example of a generic function in TypeScript:\
+
+
+    ```r
+    function identity<T>(arg: T): T {
+      return arg;
+    }
+    ```
+
+    \
+    In this example, the "\<T>" syntax is used to define a type parameter "T", which can be any type. The function takes an argument of type "T" and returns a value of the same type.
+
+    We can call this function with any type we want, and TypeScript will perform type inference to determine the type of "T". For example:\
+
+
+    ```scss
+    const result1 = identity("hello"); // result1 is of type string
+    const result2 = identity(42); // result2 is of type number
+    ```
+
+    \
+    In addition to functions, generics can also be used with classes and interfaces. For example, we could define a generic interface like this:\
+
+
+    ```csharp
+    interface Collection<T> {
+      items: T[];
+      add(item: T): void;
+      remove(item: T): void;
+      get(index: number): T;
+    }
+    ```
+
+    \
+    In this example, the "Collection" interface is defined with a type parameter "T", which is used to define the type of items in the collection. We can then use this interface to create a collection of any type we want:\
+
+
+    ```typescript
+    const numbers: Collection<number> = {
+      items: [1, 2, 3],
+      add(item: number) {
+        this.items.push(item);
+      },
+      remove(item: number) {
+        const index = this.items.indexOf(item);
+        if (index >= 0) {
+          this.items.splice(index, 1);
+        }
+      },
+      get(index: number) {
+        return this.items[index];
+      }
+    };
+    ```
+
+    \
+    In this example, we've created a collection of numbers by specifying "number" as the type parameter for the "Collection" interface.
+
+    The use cases for generics are many, but some common scenarios include creating reusable data structures, creating functions that can work with different types of data, and creating type-safe APIs that can work with any data type. By using generics, we can write more flexible and reusable code that can work with different types without sacrificing type safety.\
+
+6.  **Can you explain the concept of "decorators" in TypeScript, and provide an example of their usage?**\
+    ****\
+    ****In TypeScript, "decorators" are a feature that allows you to modify the behavior of a class, method, property, or parameter at runtime by wrapping them with a special function. Decorators are defined using the "@" symbol followed by the name of the decorator function, and can be used to add functionality to a class or to modify its behavior.
+
+    Here's an example of a decorator that logs the name of a method whenever it's called:\
+
+
+    ```typescript
+    function logMethod(target: any, propertyKey: string, descriptor: PropertyDescriptor) {
+      const originalMethod = descriptor.value;
+
+      descriptor.value = function(...args: any[]) {
+        console.log(`Calling method "${propertyKey}"`);
+        return originalMethod.apply(this, args);
+      };
+
+      return descriptor;
+    }
+
+    class MyClass {
+      @logMethod
+      myMethod() {
+        console.log('Inside myMethod');
+      }
+    }
+
+    const myObject = new MyClass();
+    myObject.myMethod();
+    ```
+
+    \
+    In this example, we define a "logMethod" decorator function that takes three arguments: "target" (the class that the method belongs to), "propertyKey" (the name of the method), and "descriptor" (an object that describes the method). The decorator function then modifies the method by wrapping it with a function that logs the name of the method before calling the original method.
+
+    We can then use the decorator by applying it to a method in a class using the "@" syntax, like this:\
+
+
+    ```typescript
+    @logMethod
+    myMethod() {
+      console.log('Inside myMethod');
+    }
+    ```
+
+    \
+    When the "myMethod" function is called, the decorator function is executed first, and the method is modified to include the logging behavior.
+
+    Decorators can also be used to add metadata to classes or methods, to validate inputs or outputs, or to modify the behavior of properties or parameters.
+
+    Here's an example of a decorator that adds metadata to a class:\
+
+
+    ```kotlin
+    @SomeMetadata('my metadata')
+    class MyClass {
+      // ...
+    }
+    ```
+
+    \
+    In this example, the "SomeMetadata" decorator adds metadata to the "MyClass" class, which can be used at runtime to provide additional information about the class.
+
+    In summary, decorators are a powerful feature of TypeScript that allow you to modify the behavior of classes, methods, properties, or parameters at runtime by wrapping them with a special function. Decorators can be used to add functionality, modify behavior, or add metadata to your code, making it more flexible and extensible.\
+
+7.  **What is "Type Assertion" in TypeScript, and how can it be used to improve code readability and maintainability?**\
+    ****\
+    ****In TypeScript, "type assertion" is a way to tell the compiler that a value is of a certain type, even if the compiler is not able to infer the type automatically. Type assertions allow you to bypass TypeScript's static type checking system and provide your own type information for a value.
+
+    Type assertions are written using the "as" keyword followed by the desired type, like this:\
+
+
+    ```typescript
+    typescriptCopy codeconst myVariable: any = 'hello world';
+    const myString: string = myVariable as string;
+    ```
+
+    \
+    In this example, we use a type assertion to tell TypeScript that the "myVariable" variable should be treated as a string, even though it is declared as "any". This can be useful when working with values that have a more general type, such as "any", or when working with external libraries that don't have TypeScript type definitions.
+
+    Type assertions can also be used to improve code readability and maintainability. By explicitly specifying the type of a value, you can make your code more self-documenting and easier to understand, especially for other developers who might not be familiar with your codebase.
+
+    Here's an example of how type assertions can improve code readability:\
+
+
+    ```typescript
+    typescriptCopy codeinterface Person {
+      name: string;
+      age: number;
+    }
+
+    function getPerson(): any {
+      return { name: 'John', age: 30 };
+    }
+
+    const person = getPerson() as Person;
+    ```
+
+    \
+    In this example, we use a type assertion to tell TypeScript that the result of the "getPerson" function should be treated as a "Person" object, even though it is declared as "any". This makes the code more readable and easier to understand, especially if other developers are not familiar with the implementation of the "getPerson" function.
+
+    Type assertions can also be used to improve code maintainability by catching errors early. If a type assertion is incorrect, TypeScript will raise a type error at compile-time, alerting you to the problem before it causes issues at runtime. By using type assertions to provide your own type information, you can catch potential errors and maintain the integrity of your codebase over time.
+
+    In summary, type assertions are a powerful feature of TypeScript that allow you to provide your own type information for values, bypassing the compiler's static type checking system. Type assertions can improve code readability and maintainability by making your code more self-documenting and catching potential errors early. However, it's important to use type assertions judiciously and only when necessary, as incorrect type assertions can lead to runtime errors and other issues.\
+
+8.  **Can you explain the concept of "Type Inference" in TypeScript, and provide an example of its usage?**\
+    ****\
+    ****In TypeScript, "type inference" is the process by which the compiler analyzes your code and automatically infers the types of variables, functions, and other elements based on their usage.
+
+    Type inference allows you to write code that is statically typed without having to manually specify types for every variable and function parameter. Instead, TypeScript can often determine the type of a value based on the context in which it is used.
+
+    For example, consider the following code:
+
+    ```typescript
+    typescriptCopy codeconst message = 'hello world';
+    const count = 42;
+
+    function add(a: number, b: number) {
+      return a + b;
+    }
+
+    const result = add(count, 10);
+    ```
+
+    In this code, we declare two variables, "message" and "count", and a function "add" that takes two parameters of type "number". We then call the "add" function and assign the result to a variable "result".
+
+    TypeScript is able to infer the types of "message" and "count" based on their initialization values, and it is able to infer the types of the "a" and "b" parameters in the "add" function based on the function signature. It is also able to infer the type of the "result" variable based on the return type of the "add" function.
+
+    Type inference can be especially useful when working with complex data structures, such as arrays and objects. For example:
+
+    ```javascript
+    javascriptCopy codeconst users = [
+      { name: 'Alice', age: 30 },
+      { name: 'Bob', age: 40 }
+    ];
+
+    function getUserNames(users: { name: string }[]) {
+      return users.map(user => user.name);
+    }
+
+    const names = getUserNames(users);
+    ```
+
+    In this code, we declare an array of user objects, and a function "getUserNames" that takes an array of user objects and returns an array of their names. We then call the "getUserNames" function and assign the result to a variable "names".
+
+    TypeScript is able to infer the type of the "users" variable as an array of objects with "name" and "age" properties, and it is able to infer the type of the "user" parameter in the "getUserNames" function as an object with a "name" property. This allows us to write type-safe code without having to manually specify the types of every property and parameter.
+
+    In summary, type inference is a powerful feature of TypeScript that allows the compiler to automatically infer the types of variables, functions, and other elements based on their usage. This can save you time and effort when writing code, and can make your code more readable and maintainable. However, it's important to be aware of the limitations of type inference and to manually specify types when necessary to ensure type safety and avoid errors.\
+    ****
+9.  **What are the differences between "let" and "const" in TypeScript, and when should you use each?**\
+    ****
+
+    In TypeScript (as well as in JavaScript), "let" and "const" are used to declare variables. Here are the differences between the two:
+
+    1. Mutability: "let" is used to declare a variable whose value can be changed, whereas "const" is used to declare a variable whose value is immutable (i.e., cannot be changed).
+    2. Scoping: Both "let" and "const" are block-scoped, meaning that they are only accessible within the block in which they are declared (e.g., a function, if statement, or loop). However, "let" allows you to redeclare the same variable within an inner block, whereas "const" does not.
+    3. Initialization: When using "let", you can declare a variable without initializing it, and assign a value to it later. When using "const", you must declare and initialize the variable at the same time, and cannot reassign a new value to it later.
+
+    Here are some general guidelines for when to use "let" versus "const":
+
+    * Use "let" when you need to declare a variable whose value will change over time, or when you need to declare a variable without initializing it.
+    * Use "const" when you need to declare a variable whose value will not change (e.g., a constant value or a reference to an immutable object), or when you want to prevent accidental reassignment of a variable.
+    * It's worth noting that using "const" does not necessarily make your code more performant or efficient. It's primarily a tool for enforcing immutability and preventing errors caused by accidental variable reassignment.
+
+    Here's an example of how you might use "let" and "const" in a TypeScript program:\
+
+
+    ```javascript
+    // Declare a mutable variable using let
+    let count = 0;
+    count = 1;
+    console.log(count); // Output: 1
+
+    // Declare an immutable variable using const
+    const message = 'hello';
+    console.log(message); // Output: hello
+
+    // Declare an immutable variable referencing an object
+    const user = { name: 'Alice', age: 30 };
+    console.log(user.name); // Output: Alice
+    user.age = 31; // This is allowed because the object is mutable
+    console.log(user.age); // Output: 31
+
+    // Declare a variable without initializing it
+    let x;
+    x = 10;
+    console.log(x); // Output: 10
+    ```
+
 ****
